@@ -150,7 +150,7 @@ MEDIA_ROOT =os.path.join(BASE_DIR, 'media')
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = '25'
 EMAIL_HOST_USER = '156678702@qq.com'
-EMAIL_HOST_PASSWORD = 'jgxvnoyckkozbhbf'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 EMAIL_FROM = '156678702@qq.com'
 
